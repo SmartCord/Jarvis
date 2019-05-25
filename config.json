@@ -5,5 +5,5 @@
     },
     "pause_threshold": 0.5,
     "dynamic_energy_threshold": true,
-    "print_threshold": true
+    "print_threshold": false
 }
