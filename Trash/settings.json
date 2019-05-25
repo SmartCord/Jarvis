@@ -1,7 +1,0 @@
-{
-    "pause_threshold": 0.5,
-    "energy_threshold": {
-        "custom": true,
-        "value": 1000
-    }
-}

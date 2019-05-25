@@ -1,0 +1,9 @@
+{
+    "energy_threshold": {
+        "adjust_for_ambient_noise": true,
+        "value": 800
+    },
+    "pause_threshold": 0.5,
+    "dynamic_energy_threshold": true,
+    "print_threshold": true
+}
