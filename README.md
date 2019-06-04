@@ -1,5 +1,5 @@
 # Support Ended
-As of June 4 2019 support for Jarvis has ended. Please check out Jarvis V2 for a much better and easier to use voice assistant
+As of June 4 2019 support for Jarvis has ended. Please check out (Jarvis V2)[https://github.com/SmartCord/Jarvis-V2] for a much better and easier to use voice assistant
 
 # Jarvis
 Jarvis is a simple input and output voice assistant framework.
