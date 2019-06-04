@@ -1,3 +1,6 @@
+# Support Ended
+As of June 4 2019 support for Jarvis has ended. Please check out Jarvis V2 for a much better and easier to use voice assistant
+
 # Jarvis
 Jarvis is a simple input and output voice assistant framework.
 
@@ -50,10 +53,7 @@ class Process:
 
     def start(self):
         if self.text == "what time is it":
-            x = datetime.datetime.now().strftime("%I:%M %p")
-
-            recognizer.energy_threshold = self.playing
+            x = datetime.datetime.now().strftime("%I:%M %p") # This assumes you have the datetime module imported
             utils.say(f"It is currently {x}")
-            recognizer.energy_threshold = self.paused
 ```
 If you say `what time is it` the assistant will reply with `It is currently <whatever time is it> <pm|am>`
